@@ -8,6 +8,7 @@ This Repo contains some of the projects I started back in 2017. Most of these pr
 I recommend checking out following projects:
 - [My first bigger Project as a 11-12 year old (2019:11)](/projects/2019/11%20Innovation%20Spaceship/)
 - [First code export](/projects/2019/12%20Dungeon%20Explorer/)
+- [One of the most influential projects in my learning path](/projects/2020/13%20Factory%20Tycoon/)
 
 #### Media Content
 Most of the videos and pictures are stored on my website, due to the file size limit of GitHub. If you experience issues with playback or connectivity, please contact me asap under **webmaster@hyper-tech.ch**
