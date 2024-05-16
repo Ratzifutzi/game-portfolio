@@ -5,7 +5,7 @@ This project was developed on **the ROBLOX platform.**
 
 ### Project Details
 Please view the audio commented video.
-[Click to view project Video](https://hyper-tech.ch/!videos/SAE/08.mp4)
+[Click to view project Video](https://hyper-tech.ch/!videos/SAE/08.mp4). There was an issue with the audio recording, the quality is not that great. Fixed in the next videos.
 
 ### Progess
 Probably finished
