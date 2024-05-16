@@ -5,7 +5,7 @@ This project was developed on the **ROBLOX Platform.**
 
 ### Project Details
 One of the first projects I ever made on the ROBLOX Platform. I followed a YouTube tutorial on how to create basic tycoon games. It was one of my favourite game genre, so games like this will come up a lot. A tycoon is basically a game where you generate money in some sort of way to build buildings, which will further increase your income or just for decoration purposes. In the video, I modified my savefile to have an endless amount of money, to speed up the progess.
-[Click to view project Video](https://hyper-tech.ch/!videos/SAE/01.mp4)
+[Click to view project Video (🔇)](https://hyper-tech.ch/!videos/SAE/01.mp4)
 
 ### Progess
 Unfinished, unknown progress.
