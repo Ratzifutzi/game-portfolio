@@ -6,7 +6,7 @@ This Repo contains some of the projects I started back in 2017. Most of these pr
 
 #### Recommended
 I recommend checking out following projects:
-- [*✨ First game I made in Defold*](https://ratzifutzi.itch.io/harald)
+- [*✨ First game I made in Defold*](https://github.com/Ratzifutzi/haralds-adventure)
 - [My first bigger Project as a 11-12 year old (2019:11)](/projects/2019/11%20Innovation%20Spaceship/)
 - [First code export](/projects/2019/12%20Dungeon%20Explorer/)
 - [One of the most influential projects in my learning path](/projects/2020/13%20Factory%20Tycoon/)
