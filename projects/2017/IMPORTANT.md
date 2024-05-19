@@ -4,4 +4,4 @@
 </div>
 
 The projects in this folder are from **2017 AND DO NOT REFLECT MY CURRENT WORK AT ALL.** I wanted to attach them so that everything is complete and you have an idea when I started games programming/development.
-### I WAS 9-10 YEARS OLD. AS OF 2024, I AM 16.
+### I WAS 8-9 YEARS OLD. AS OF 2024, I AM 16.
