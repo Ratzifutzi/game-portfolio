@@ -11,6 +11,7 @@ I recommend checking out following projects:
 - [First code export](/projects/2019/12%20Dungeon%20Explorer/)
 - [One of the most influential projects in my learning path](/projects/2020/13%20Factory%20Tycoon/)
 - [One of my bigger projects in 2021](/projects/2021/17%20Isle%20Builder/)
+- [Another bigger project from 2021](/projects/2021/18%20Area%20Psi/)
 
 #### Media Content
 Most of the videos and pictures are stored on my website, due to the file size limit of GitHub. If you experience issues with playback or connectivity, please contact me asap under **webmaster@hyper-tech.ch**
