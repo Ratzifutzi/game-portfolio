@@ -8,6 +8,7 @@ This Repo contains some of the projects I started back in 2017. Most of these pr
 Please check out everything after 2022. These should reflect my work best, the more recent, the better.
 I also recommend checking out following projects:
 - [*✨ First game I made in Defold*](https://github.com/Ratzifutzi/haralds-adventure)
+- [*✨ This should reflect my work accurately.*](/projects/2023/2020%20Survivor/)
 - [My first bigger Project as a 11-12 year old (2019:11)](/projects/2019/11%20Innovation%20Spaceship/)
 - [First code export](/projects/2019/12%20Dungeon%20Explorer/)
 - [One of the most influential projects in my learning path](/projects/2020/13%20Factory%20Tycoon/)
@@ -26,7 +27,7 @@ Platform / Engine | In which engine or platform the game was made
 Project Details | Some information about the project, for example it's age.
 Progess | How far I was into development
 Original Idea | My initial thoughts on the game and what I intended to create
-Codebase | What I think of the codebase used and if I would create it in the same way today.
+Codebase | What I think of the codebase used and if I would create it in the same way today. / If it was created by me
 
 #### Honourable Mentions
 - [My first project regarding machine learning](https://colab.research.google.com/github/Ratzifutzi/process-to-learn-ai/blob/main/day-1---numberAI.ipynb). The CDN for the training and eval data is sadly not online anymore.
