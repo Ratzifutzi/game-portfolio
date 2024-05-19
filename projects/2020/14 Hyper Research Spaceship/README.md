@@ -14,4 +14,4 @@ Not finished
 A sequel to [my first spaceship](/projects/2019/11%20Innovation%20Spaceship/). I wanted to make a new game with my newfound knowledge etc.
 
 ### Codebase
-100% by myself, unless explicitly mentioned in a comment at the top of the file.
+100% by myself, unless explicitly mentioned in a comment at the top of the file. The quality of the code is TERRIBLE and there are a lot of issues, for example, the lights are updating more often than there are frames on your screen.

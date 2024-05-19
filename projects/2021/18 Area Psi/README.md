@@ -14,4 +14,4 @@ Unfinished
 Project Details
 
 ### Codebase
-100% by me, unless specifically mentioned
+100% by me, unless specifically mentioned. The code fine most of the time. I wouldn't do the same today, but it's okay for the beginning. Comparing to older code, this is 100000% better.

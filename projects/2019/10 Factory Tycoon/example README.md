@@ -14,4 +14,4 @@ Not even close to be finished.
 A game where you create a factory with workers, delivery system etc. View video for more information.
 
 ### Codebase
-Tycoon Kit created by someone else, everything else by me(conveyors etc)
+Tycoon Kit created by someone else, everything else by me(conveyors etc). Code is pretty messy and unoptimized.

@@ -14,4 +14,4 @@ Unfinished, unknown progress.
 A christmas themed obby, resulted in random assets from the asset store thrown around to create an obby with pretty fun ideas.
 
 ### Codebase
-Checkpoint system created by me, broke due to old age and no maintenance and drastic changes of the ROBLOX engine.
+Checkpoint system created by me, broke due to old age and no maintenance and drastic changes of the ROBLOX engine. Code not in good quality

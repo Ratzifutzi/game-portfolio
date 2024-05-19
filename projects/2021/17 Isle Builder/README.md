@@ -14,4 +14,4 @@ Unfinished
 The player needs to survive on an island, gather resources, build their base and survive. Open World Survival game
 
 ### Codebase
-100% by me
+100% by me. It is actually somewhat readable and understandable. This is when I started to care more and more about the quality of my code.

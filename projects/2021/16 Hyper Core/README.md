@@ -17,4 +17,4 @@ Unfinished, split up in 2 parts.
 The player holds responsibility over a reactor, and a complete facility. I only managed to create the first 
 
 ### Codebase
-As far as I remember, this project was COMPLETELY made bymyself.
+As far as I remember, this project was COMPLETELY made bymyself. The code of the first project is really bad and unoptimized, but it's getting better than before. There are huge improvements on the second version, but I am still not a fan.

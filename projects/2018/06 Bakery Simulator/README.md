@@ -14,4 +14,4 @@ Unfinished, unknown progress.
 Roleplay game where you play in a bakery.
 
 ### Codebase
-Everything except the grab tool created by me.
+Everything except the grab tool created by me. I would never write code like that again.

@@ -13,5 +13,5 @@ Unfinished
 The player must concur many dungeons, and figure out the story why and how everything happened, how it happened.
 
 ### Codebase
-Created 100% by me
-Located at [./export/src/StarterPlayer/StarterPlayerScripts/](./export/src/StarterPlayer/StarterPlayerScripts/).
+Created 100% by me with the help of the internet
+Located at [./export/src/StarterPlayer/StarterPlayerScripts/](./export/src/StarterPlayer/StarterPlayerScripts/). The code is in a half acceptable state

@@ -14,4 +14,4 @@ Probably finished
 A game, where you have to keep the reactor under control. Make sure it's not too hot, and not too cold. I only coded the meltdown. There were Blast Doors that close in emergency situations, but they stopped working due to deprecated content used from the Roblox Engine, which have been sunsetted. I wanted to add multiple teams with many different roles.
 
 ### Codebase
-Everything created by me. Cannot upload codebase due to the old age of the project and my export tool does not support it.
+Everything created by me. Cannot upload codebase due to the old age of the project and my export tool does not support it. The code is a pretty big mess and I will never reproduce code like that.

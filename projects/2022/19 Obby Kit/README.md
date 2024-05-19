@@ -14,4 +14,4 @@ Finished, except menus
 I got paid to create a kit for the creation of obbies. Please refer to [this project](/projects/2017/02%20Run%20Obby/) to know what obbies are.
 
 ### Codebase
-100% by me, unless specifically mentioned
+100% by me, unless specifically mentioned. I use the same structure today, with some additions. Most of the code is fine, but would need some adjustments.
