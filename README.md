@@ -5,7 +5,8 @@ This Repo contains some of the projects I started back in 2017. Most of these pr
 ### Projects
 
 #### Recommended
-I recommend checking out following projects:
+Please check out everything after 2022. These should reflect my work best, the more recent, the better.
+I also recommend checking out following projects:
 - [*✨ First game I made in Defold*](https://github.com/Ratzifutzi/haralds-adventure)
 - [My first bigger Project as a 11-12 year old (2019:11)](/projects/2019/11%20Innovation%20Spaceship/)
 - [First code export](/projects/2019/12%20Dungeon%20Explorer/)
