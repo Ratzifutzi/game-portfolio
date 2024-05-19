@@ -1,0 +1,1 @@
+script.Parent.Welcome.Text = "Welcome, " .. game.Players.LocalPlayer.DisplayName

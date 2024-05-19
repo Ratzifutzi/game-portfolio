@@ -1,0 +1,1 @@
+workspace.TrainStationEvent.Verification.Screen.SurfaceGui.WorkersLeft.Left.Player.name.Text = "Dr. " .. game.Players.LocalPlayer.Name
