@@ -1,6 +1,6 @@
 # Game Portfolio for SAE
 ### Intro
-This Repo contains some of the projects I started back in 2017. Most of these projects were created on the digital platform [ROBLOX](https://create.roblox.com/). Many of the projects don't reflect the way how I code anymore, due to their old age. **Please check out the README contained in every project for more information.** The assets folder is not important, it only contains some images used in the README files. **I wont show the codebase for most projects before 2020**, due to limited file size on GitHub. **If there is an IMPORTANT.md file, please read all of them. They may look the same but can be different.**
+This Repo contains some of the projects I started back in 2017. Most of these projects were created on the digital platform [ROBLOX](https://create.roblox.com/). Many of the projects don't reflect the way how I code anymore, due to their old age. **Please check out the README contained in every project for more information.** The assets folder is not important, it only contains some images used in the README files. **I will not show the codebase for most projects before 2020**, due to limited file size on GitHub. **If there is an IMPORTANT.md file, please read all of them. They may look the same but can be different.**
 
 ### Projects
 
@@ -16,10 +16,10 @@ I also recommend checking out following projects:
 - [Another bigger project from 2021](/projects/2021/18%20Area%20Psi/)
 
 #### Media Content
-Most of the videos and pictures are stored on my website, due to the file size limit of GitHub. If you experience issues with playback or connectivity, please contact me asap under **webmaster@hyper-tech.ch**
+Most of the videos and pictures are stored on my website, due to the file size limit of GitHub. If you experience issues with playback or connectivity, please contact me as soon as possible via **webmaster@hyper-tech.ch**
 
 #### README
-Every project has it's own README. This file is structured in the following way:
+Every project has its own README. This file is structured in the following way:
 
 Header  | Content
 ------- | -------
