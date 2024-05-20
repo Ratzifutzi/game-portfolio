@@ -1,6 +1,6 @@
 # Game Portfolio for SAE
 ### Intro
-This Repo contains some of the projects I started back in 2017. Most of these projects were created on the digital platform [ROBLOX](https://create.roblox.com/). Many of the projects don't reflect the way how I code anymore, due to their old age. **Please check out the README contained in every project for more information.** The assets folder is not important, it only contains some images used in the README files. **I will not show the codebase for most projects before 2020**, due to limited file size on GitHub. **If there is an IMPORTANT.md file, please read all of them. They may look the same but can be different.**
+This Repo contains some of the projects I started back in 2017. Most of these projects were created on the digital platform [ROBLOX](https://create.roblox.com/). Many of the projects don't reflect the way how I code anymore, due to their old age. **Please check out the README contained in every project for more information.** The assets folder is not important, it only contains some images used in the README files. **I will not show the codebase for most projects before 2020**, due to limited file size on GitHub. **If there is an IMPORTANT.md file, please read all of them. They may look the same but can be different.** Over my journey, I have contributed to **over 2M plays** at 3 different studios, with a combined amount of **followers over 55K.**
 
 ### Projects
 
