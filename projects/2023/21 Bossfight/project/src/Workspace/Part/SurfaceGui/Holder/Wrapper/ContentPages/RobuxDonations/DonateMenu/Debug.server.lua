@@ -1,0 +1,5 @@
+local Players = game:GetService("Players")
+local MarketplaceService = game:GetService("MarketplaceService")
+script.Parent.MouseButton1Click:Connect(function()
+	MarketplaceService:PromptProductPurchase( Players.LocalPlayer, 1727233775 )
+end)

@@ -1,0 +1,1 @@
+-- Disables Health Regeneration
