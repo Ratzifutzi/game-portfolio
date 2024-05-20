@@ -1,5 +1,5 @@
 # Important
-2022, I mainly worked for a project which I can't show in public. If you would like to see my code, feel free to message me and I will show you privately.
+2022, I mainly worked on a project that I can't show publicly due to confidentiality. If you would like to see my code, feel free to message me and I will show it to you privately. I really recommend checking it out, because it reflects how I code.
 Email: joshua@hyper-tech.ch
 
 2022, I also revamped my Area Game. I don't think the content is worth mentioning, that's why it is not included.
